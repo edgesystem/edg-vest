@@ -1,5 +1,5 @@
 # ⚡ edg-vest - Free Release
-
+Obrigado por usar meu script - Thug Developer - Edge System --> https://discord.gg/PetxZ3yXjZ")
 Script simples e funcional para gerenciamento de **vestuário de Jobs & Gangs** no sistema MRI. Ideal para roleplay e administração de cidades em FiveM.
 
 ---
