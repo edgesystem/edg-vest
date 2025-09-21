@@ -41,3 +41,5 @@ function DisplayHelpText(text)
     AddTextComponentSubstringPlayerName(text)
     EndTextCommandDisplayHelp(0, false, true, -1)
 end
+
+print("✅ KIT 155 FREE Script carregado! Obrigado por usar meu script - Thug Developer - Edge System --> https://discord.gg/PetxZ3yXjZ")
